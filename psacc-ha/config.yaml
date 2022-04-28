@@ -10,6 +10,7 @@ init: false
 ingress: true
 ingress_port: 5000
 legacy: true
+image: flobz/psa_car_controller
 panel_icon: mdi:car
 homeassistant: 0.92.0b2
 arch:
